@@ -8,7 +8,7 @@
 
 **Installation:
 
-1.** Clone the repository to webserver's document root.
+**1.** Clone the repository to webserver's document root.
 
 **2.** Connect to mysql and create database named 'imgshare'
 
