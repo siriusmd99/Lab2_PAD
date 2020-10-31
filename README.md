@@ -8,6 +8,9 @@
 
 **Installation:**
 **1.** Clone the repository to webserver's document root.
-**2.** Connect to mysql and create database named 'imgshare';
+
+**2.** Connect to mysql and create database named 'imgshare'
+
 **3.** Import database from '/tmp/imgshare.sql' to mysql.
+
 **4. (Optional)**  If root login is disabled or it uses a custom password then configure mysql user configuration in '/includes/config.ini'.
