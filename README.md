@@ -6,7 +6,7 @@
 * PHP 7.1.33+
 * mySQL Server (MariaDB 10.1+)
 
-**Installation:**
+**<h3>Installation:</h3>**
 
 **1.** Clone the repository to webserver's document root.
 
