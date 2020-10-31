@@ -1,6 +1,6 @@
 # Lab2_PAD
 
-<h2>**Requirements:**</h2>
+**<h3>Requirements:</h3>**
 * Windows Operating System (To make it compatible with linux, php includes's directories must be changed to linux directory format)
 * Apache2 Webserver
 * PHP 7.1.33+
