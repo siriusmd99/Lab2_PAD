@@ -10,7 +10,7 @@
 
 **1.** Clone the repository to webserver's document root.
 
-**2.** Connect to mysql and create database named 'imgshare'
+**2.** Connect to mysql and create database named 'imgshare' (with collation 'utf8mb4_bin')
 
 **3.** Import database from '/tmp/imgshare.sql' to mysql.
 
