@@ -12,6 +12,6 @@
 
 **2.** Connect to mysql and create database named 'imgshare' (with collation 'utf8mb4_bin')
 
-**3.** Import database from '/tmp/imgshare.sql' to mysql.
+**3.** Import database from '/tmp/imgshare.sql' to mysql server.
 
 **4. (Optional)**  If root login is disabled or it uses a custom password then configure mysql user configuration in '/includes/config.ini'.
