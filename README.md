@@ -1,12 +1,12 @@
 # Lab2_PAD
 
-**Requirements:**
+<h2>**Requirements:**</h2>
 * Windows Operating System (To make it compatible with linux, php includes's directories must be changed to linux directory format)
 * Apache2 Webserver
 * PHP 7.1.33+
 * mySQL Server (MariaDB 10.1+)
 
-**Installation:
+**Installation:**
 
 **1.** Clone the repository to webserver's document root.
 
